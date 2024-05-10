@@ -80,7 +80,11 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FGEMWKNT
+DocumentUniqueId=VXFTJSDE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Display-Interface-Board-v1.0\Design Rule Check - Display-Interface-v1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
