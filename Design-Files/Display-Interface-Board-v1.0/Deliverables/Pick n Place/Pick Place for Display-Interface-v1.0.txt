@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\alastair-baronessalpha\Design-Files\Display-Interface-Board-v1.0\Project Outputs for Display-Interface-Board-v1.0\Pick Place for Display-Interface-v1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/05/24
+Time:       14:18
+Revision:   d384b6e406e01e5b1f50bfa34bea10758ee16682
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+U1         TopLayer 16.5100mm    10.2362mm    180      16.5100mm 10.2362mm 17.8200mm 9.2862mm  
+R7         TopLayer 20.3166mm    12.2361mm    0        20.3166mm 12.2361mm 19.8467mm 12.2361mm 
+R6         TopLayer 22.0980mm    3.2766mm     180      22.0980mm 3.2766mm  23.3680mm 3.2766mm  
+R5         TopLayer 20.3224mm    11.2074mm    180      20.3224mm 11.2074mm 20.7923mm 11.2074mm 
+R4         TopLayer 20.3605mm    6.2180mm     90       20.3605mm 6.2180mm  20.3605mm 5.7481mm  
+R3         TopLayer 21.4944mm    6.2287mm     270      21.4944mm 6.2287mm  21.4944mm 6.6986mm  
+R2         TopLayer 15.2000mm    13.1445mm    270      15.2000mm 13.1445mm 15.2000mm 13.6144mm 
+R1         TopLayer 16.2814mm    13.1445mm    90       16.2814mm 13.1445mm 16.2814mm 12.6746mm 
+L1         TopLayer 16.3434mm    5.4180mm     270      16.3434mm 5.4180mm  16.3434mm 7.0180mm  
+J2         TopLayer 27.2536mm    15.0000mm    90       27.2536mm 15.0000mm 25.6286mm 7.7500mm  
+J1         TopLayer 4.0640mm     15.0000mm    270      4.0640mm  15.0000mm 5.6890mm  22.2500mm 
+D2         TopLayer 22.9005mm    13.2554mm    180      23.3005mm 12.2554mm 23.3005mm 12.2554mm 
+D1         TopLayer 10.6934mm    5.7150mm     270      10.6934mm 5.7150mm  10.6934mm 7.6150mm  
+C5         TopLayer 8.1329mm     21.9738mm    270      8.1329mm  21.9738mm 8.1329mm  22.7358mm 
+C4         TopLayer 9.3853mm     21.6789mm    270      9.3853mm  21.6789mm 9.3853mm  22.1488mm 
+C3         TopLayer 21.7424mm    9.7922mm     180      21.7424mm 9.7922mm  22.5044mm 9.7922mm  
+C2         TopLayer 13.2588mm    7.5946mm     90       13.2588mm 7.5946mm  13.2588mm 6.8326mm  
+C1         TopLayer 8.3058mm     6.4262mm     90       8.3058mm  6.4262mm  8.3058mm  5.6642mm  
