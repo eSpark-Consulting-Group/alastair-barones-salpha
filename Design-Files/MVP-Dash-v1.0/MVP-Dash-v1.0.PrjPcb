@@ -508,40 +508,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=DRAM-LPDDR4x-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KNCFHXFX
-
-[Document29]
-DocumentPath=DRAM-LPDDR4x-Sheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document30]
 DocumentPath=eMMC-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNNEQDXH
 
-[Document31]
+[Document29]
 DocumentPath=eMMC-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document30]
 DocumentPath=MicroSD-SPI-Flash-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +558,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMVNHUOH
 
-[Document33]
+[Document31]
 DocumentPath=MicroSD-SPI-Flash-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +575,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document32]
 DocumentPath=VO-HDMI2.0-TX-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +592,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGEOKMCA
 
-[Document35]
+[Document33]
 DocumentPath=VO-HDMI2.0-TX-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +609,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document34]
 DocumentPath=VO-LCM-MIPI-DSI-TX0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJCDSQQO
 
-[Document37]
+[Document35]
 DocumentPath=WIFI-BT-SDIO-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJXNIWPS
 
-[Document38]
+[Document36]
 DocumentPath=VO-LCM-MIPI-DSI-TX0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document37]
 DocumentPath=WIFI-BT-SDIO-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document38]
 DocumentPath=Type-C-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWUTDLFP
 
-[Document41]
+[Document39]
 DocumentPath=Type-C-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document40]
 DocumentPath=Sensors-Sheet-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOENWUKN
 
-[Document43]
+[Document41]
 DocumentPath=Sensors-Sheet-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document42]
 DocumentPath=Sensors-Sheet-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWXLNAGG
 
-[Document45]
+[Document43]
 DocumentPath=Sensors-Sheet-2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +779,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document44]
+DocumentPath=DRAM-LPDDR4x-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNCFHXFX
+
+[Document45]
 DocumentPath=Connector-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFEJSTQT
 
-[Document47]
+[Document46]
 DocumentPath=Connector-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=MVP-Dash-v1.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=MVP-Dash-v1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -880,6 +863,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WANRIHFP
+
+[Document49]
+DocumentPath=DRAM-LPDDR4x-Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1507,36 +1507,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
