@@ -508,6 +508,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
+DocumentPath=DRAM-LPDDR4x-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KNCFHXFX
+
+[Document29]
 DocumentPath=eMMC-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -524,7 +541,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNNEQDXH
 
-[Document29]
+[Document30]
 DocumentPath=eMMC-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -541,35 +558,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< Updated upstream
-[Document30]
-DocumentPath=MicroSD-SPI-Flash-Sheet.SchDoc
-=======
-[Document32]
-DocumentPath=CAN-Bus-SPI-Flash-Sheet.SchDoc
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KMVNHUOH
-
-<<<<<<< Updated upstream
 [Document31]
 DocumentPath=MicroSD-SPI-Flash-Sheet.Harness
-=======
-[Document33]
-DocumentPath=CAN-Bus-SPI-Flash-Sheet.Harness
->>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -586,13 +576,13 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=VO-HDMI2.0-TX-Sheet.SchDoc
+DocumentPath=CAN-Bus-SPI-Flash-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=18
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -600,10 +590,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KGEOKMCA
+DocumentUniqueId=KMVNHUOH
 
 [Document33]
-DocumentPath=VO-HDMI2.0-TX-Sheet.Harness
+DocumentPath=CAN-Bus-SPI-Flash-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -637,6 +627,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AJCDSQQO
 
 [Document35]
+DocumentPath=VO-HDMI2.0-TX-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KGEOKMCA
+
+[Document36]
 DocumentPath=WIFI-BT-SDIO-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -653,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJXNIWPS
 
-[Document36]
+[Document37]
 DocumentPath=VO-LCM-MIPI-DSI-TX0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -670,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=WIFI-BT-SDIO-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -687,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Type-C-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -704,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWUTDLFP
 
-[Document39]
+[Document40]
 DocumentPath=Type-C-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -721,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=Sensors-Sheet-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -738,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOENWUKN
 
-[Document41]
+[Document42]
 DocumentPath=Sensors-Sheet-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -755,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Sensors-Sheet-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -772,7 +779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWXLNAGG
 
-[Document43]
+[Document44]
 DocumentPath=Sensors-Sheet-2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,23 +795,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document44]
-DocumentPath=DRAM-LPDDR4x-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KNCFHXFX
 
 [Document45]
 DocumentPath=Connector-Sheet.SchDoc
@@ -876,6 +866,23 @@ DocumentUniqueId=WANRIHFP
 
 [Document49]
 DocumentPath=DRAM-LPDDR4x-Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document50]
+DocumentPath=VO-HDMI2.0-TX-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
