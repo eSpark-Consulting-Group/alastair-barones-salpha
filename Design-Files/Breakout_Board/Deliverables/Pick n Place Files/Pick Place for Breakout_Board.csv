@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+S:\alastair-baronessalpha\Design-Files\Breakout_Board\Breakout_Board\Project Outputs for Breakout_Board\Pick Place for Breakout_Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/06/24
+Time:       19:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J1","TopLayer","45.7200mm","81.9150mm","270","45.7200mm","81.9150mm","44.4500mm","85.7250mm"
+"SW1","TopLayer","60.2000mm","81.8480mm","0","60.2000mm","81.8480mm","58.7000mm","74.0480mm"
