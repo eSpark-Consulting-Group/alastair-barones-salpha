@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MVP-Dash-v1.0.PcbDoc   7/31/2024  2:41:15 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : MVP-Dash-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : MVP-Dash-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             762       PTH        35.94inch (913.00mm)
+T2      8mil (0.2mm)                                              Round             18        PTH        5.11inch (129.87mm)
+T3      12mil (0.3mm)                                             Round             717       PTH        99.83inch (2535.66mm)
+T4      26mil (0.65mm)                                            Slot              4         PTH        1.19inch (30.13mm)
+T5      28mil (0.7mm)                                             Round             4         PTH        0.53inch (13.40mm)
+T6      35mil (0.9mm)                                             Round             5         PTH        3.19inch (81.11mm)
+T7      43mil (1.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T8      71mil (1.8mm)                                             Round             2         PTH        0.16inch (3.96mm)
+T9      118mil (3mm)                                              Round             6         PTH        13.62inch (346.00mm)
+T10     24mil (0.62mm)                                            Slot              1         NPTH       0.01inch (0.38mm)
+T11     26mil (0.67mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1521
+
+Total Processing Time (hh:mm:ss) : 00:00:01
