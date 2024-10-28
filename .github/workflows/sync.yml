@@ -1,0 +1,25 @@
+name: BA HARDWARE SYNC WORKFLOW
+
+on:
+  push:
+    branches: [ "Development-v1.0" ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    container: pandoc/latex
+
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v4
+
+    - name: Push production changes to medchg-production repository
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source-directory: '.'
+        destination-github-username: 'baronessmotoco'
+        destination-repository-name: 'BA-Hardware-Device'
+        target-branch: main
+        user-email: ${{ secrets.COMMIT_EMAIL }}
