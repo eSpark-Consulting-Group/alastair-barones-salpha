@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Pukk-Sensor-PCB.PcbDoc   27/03/2025  2:25:57 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Pukk-Sensor-PCB-RoundHoles.TXT
+ASCII SlotHoles File : Pukk-Sensor-PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             236       PTH        1103.02mm (43.43inch)
+T2      0.6mm (24mil)                                             Slot              1         PTH        2.00mm (0.08inch)
+T3      0.7mm (28mil)                                             Round             2         PTH        4.30mm (0.17inch)
+T4      0.9mm (35mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T5      0.914mm (36mil)                                           Round             7         PTH        17.78mm (0.70inch)
+T6      1.2mm (47mil)                                             Round             2         PTH        3.56mm (0.14inch)
+T7      1.5mm (59mil)                                             Round             28        PTH        275.20mm (10.83inch)
+T8      2mm (79mil)                                               Round             5         PTH        165.42mm (6.51inch)
+T9      3mm (118mil)                                              Round             4         PTH        304.26mm (11.98inch)
+T10     0.7mm (28mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T11     0.85mm (33mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T12     0.991mm (39mil)                                           Round             3         NPTH       7.21mm (0.28inch)
+T13     2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              297
+
+Total Processing Time (hh:mm:ss) : 00:00:00
