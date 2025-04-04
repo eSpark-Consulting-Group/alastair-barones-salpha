@@ -406,6 +406,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSKSVQUK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Pukk-Display-Module-v1.0\Design Rule Check - Pukk-Display-Module-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
