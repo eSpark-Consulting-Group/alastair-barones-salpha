@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\aSim Data\GitHub\alastair-baronessalpha\Design-Files\Pukk-Display-Module-v1.0\Project Outputs for Pukk-Display-Module-v1.0\Pick Place for Pukk-Display-Module-v1.0.txt
+C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\alastair-baronessalpha\Design-Files\Pukk-Display-Module-v1.0\Project Outputs for Pukk-Display-Module-v1.0\Pick Place for Pukk-Display-Module-v1.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       07/04/25
-Time:       13:02
-Revision:   24ff23a16de43f9a9bd2e2c7611df167889535c7
+Date:       08/04/25
+Time:       17:57
+Revision:   7a9d763197a15a56aab974c4895436b2847d74c5
 Variant:    No variations
 Units used: mm
 
@@ -152,12 +152,12 @@ SW2        15.3037mm    12.8778mm    TopLayer    0        15.3037mm 12.8778mm 13
 SW3        15.3037mm    9.0424mm     TopLayer    0        15.3037mm 9.0424mm  13.6037mm 9.0424mm  
 U1         14.7320mm    3.5560mm     TopLayer    0        14.7320mm 3.5560mm  5.8420mm  3.5560mm  
 U2         60.5790mm    22.5806mm    BottomLayer 270      60.5790mm 22.5806mm 58.6740mm 25.2806mm 
-U3         31.1600mm    0.0565mm     TopLayer    0        31.1600mm 0.0565mm  26.8350mm -2.3185mm 
+U3         31.1600mm    0.0565mm     TopLayer    0        31.1600mm 0.0565mm  28.2700mm 1.3615mm  
 U4         86.5842mm    23.5559mm    BottomLayer 270      86.5842mm 23.5559mm 87.5842mm 24.5059mm 
 U5         34.5588mm    11.5374mm    TopLayer    180      34.5588mm 11.5374mm 35.5339mm 10.8874mm 
 U6         14.5528mm    23.9210mm    TopLayer    0        14.5528mm 23.9210mm 19.4028mm 19.5210mm 
 U7         6.9537mm     26.7210mm    TopLayer    0        6.9537mm  26.7210mm 6.5162mm  27.2210mm 
 U8         19.7659mm    10.3502mm    BottomLayer 180      19.7659mm 10.3502mm 21.3660mm 11.3001mm 
 U16        68.9864mm    22.6060mm    BottomLayer 270      68.9864mm 22.6060mm 65.1764mm 25.3060mm 
-U13A       61.4999mm    33.4599mm    TopLayer    0        71.2999mm 34.9999mm 71.2999mm 34.9999mm 
-U13B       61.4999mm    -0.4602mm    TopLayer    0        71.2999mm 1.0798mm  71.2999mm 1.0798mm  
+U13A       61.5000mm    33.4999mm    TopLayer    0        71.3000mm 35.0399mm 71.3000mm 35.0399mm 
+U13B       61.5000mm    -0.5001mm    TopLayer    0        71.3000mm 1.0399mm  71.3000mm 1.0399mm  

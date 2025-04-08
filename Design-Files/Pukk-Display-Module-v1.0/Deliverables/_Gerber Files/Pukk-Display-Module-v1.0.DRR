@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Pukk-Display-Module-v1.0.PcbDoc   4/7/2025  1:07:39 PM
+NCDrill File Report For: Pukk-Display-Module-v1.0.PcbDoc   08/04/2025  5:56:57 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : Pukk-Display-Module-v1.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             308       PTH        807.03mm (31.77inch)
+T1      0.2mm (8mil)                                              Round             308       PTH        806.95mm (31.77inch)
 T2      0.6mm (24mil)                                             Slot              4         PTH        38.19mm (1.50inch)
 T3      0.914mm (36mil)                                           Round             7         PTH        17.78mm (0.70inch)
 T4      1mm (39mil)                                               Round             12        PTH        37.13mm (1.46inch)
@@ -18,4 +18,4 @@ T7      0.62mm (24mil)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              341
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
