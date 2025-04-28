@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Pukk-Display-Module-v1.0.PcbDoc   08/04/2025  5:56:57 pm
+NCDrill File Report For: Pukk-Display-Module-v1.0.PcbDoc   28/04/2025  9:05:40 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,14 @@ ASCII SlotHoles File : Pukk-Display-Module-v1.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             308       PTH        806.95mm (31.77inch)
+T1      0.2mm (8mil)                                              Round             314       PTH        818.43mm (32.22inch)
 T2      0.6mm (24mil)                                             Slot              4         PTH        38.19mm (1.50inch)
 T3      0.914mm (36mil)                                           Round             7         PTH        17.78mm (0.70inch)
-T4      1mm (39mil)                                               Round             12        PTH        37.13mm (1.46inch)
+T4      1mm (39mil)                                               Round             15        PTH        85.62mm (3.37inch)
 T5      2mm (79mil)                                               Round             2         PTH        5.92mm (0.23inch)
 T6      3mm (118mil)                                              Round             6         PTH        209.00mm (8.23inch)
 T7      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              341
+Totals                                                                              350
 
 Total Processing Time (hh:mm:ss) : 00:00:00
