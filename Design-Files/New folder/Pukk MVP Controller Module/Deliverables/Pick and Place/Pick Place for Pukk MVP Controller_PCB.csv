@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\alastair-baronessalpha\Design-Files\New folder\Pukk MVP Controller Module\Project Outputs for Pukk MVP Controller Module\Pick Place for Pukk MVP Controller_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/04/25
+Time:       20:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"SW2","KSL0M512LFT","TopLayer","KSL0M512_LFT","28.9179mm","11.5000mm","180","SWITCH TACTILE SPST-NO 0.05A 32V"
+"SW1","RKJXT1F42001","TopLayer","RKJXT1F42001","12.4781mm","11.5000mm","0","Electromechanical Switch 4-Directional Stick Switch 0.01A Bulk"
+"P10","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","23.7500mm","1.0000mm","270","Test pad"
+"P9","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","22.2500mm","1.0000mm","180","Test pad"
+"P8","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","25.2500mm","1.0000mm","180","Test pad"
+"P7","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","11.7500mm","1.0000mm","180","Test pad"
+"P6","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","13.2500mm","1.0000mm","180","Test pad"
+"P5","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","14.7500mm","1.0000mm","180","Test pad"
+"P4","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","20.7500mm","1.0000mm","180","Test pad"
+"P3","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","17.7500mm","1.0000mm","180","Test pad"
+"P2","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","19.2500mm","1.0000mm","180","Test pad"
+"P1","0.5mm Test Pad","TopLayer","0.5mm_Test_Pad","16.2500mm","1.0000mm","180","Test pad"
