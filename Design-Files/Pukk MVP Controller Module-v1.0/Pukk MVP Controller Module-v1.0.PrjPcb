@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Pukk MVP Controller_PCB-v1.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JKEPVDAP
+
+[Document2]
 DocumentPath=Main Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -64,23 +81,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQNLBPHF
-
-[Document2]
-DocumentPath=Pukk MVP Controller_PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JKEPVDAP
 
 [Document3]
 DocumentPath=Deliverables\Gerbers\Gerber Files.Cam
@@ -138,82 +138,14 @@ DocumentPath=Project Outputs for Pukk MVP Controller Module\Design Rule Check - 
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pick Place for Pukk MVP Controller_PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pick Place for Pukk MVP Controller_PCB.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GM
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Pukk MVP Controller Module\Pukk MVP Controller_PCB.TXT
 DItemRevisionGUID=
 
